@@ -19,7 +19,7 @@ Send what your users write (comments, profiles, listings, images, conversations)
 |---|---|---|
 | PHP | `composer require edulazaro/toxicfilter-sdk` | [php-sdk](https://github.com/toxicfilter/php-sdk) |
 | Python | `pip install toxicfilter-sdk` | [python-sdk](https://github.com/toxicfilter/python-sdk) |
-| JavaScript | coming to npm | [js-sdk](https://github.com/toxicfilter/js-sdk) |
+| JavaScript | `npm install @edulazaro/toxicfilter-sdk` | [js-sdk](https://github.com/toxicfilter/js-sdk) |
 | Laravel | `composer require edulazaro/laratox` | [laratox](https://github.com/edulazaro/laratox) |
 
 ## Links
